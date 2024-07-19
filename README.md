@@ -1,20 +1,19 @@
 <h1 align="center">My Portfolio Website</h1>
 <p align="center"><i>Making A User friendly Portfolio Website using React Framework</i></p>
 <div align="center">
-  <a href="https://github.com/akshatrajsaxena/MyPortfolioReact/stargazers"><img src="https://img.shields.io/github/stars/akshatrajsaxena/MyPortfolioReact" alt="Stars Badge"/></a>
-  <a href="https://github.com/akshatrajsaxena/MyPortfolioReact/network/members"><img src="https://img.shields.io/github/forks/akshatrajsaxena/MyPortfolioReact" alt="Forks Badge"/></a>
-  <a href="https://github.com/akshatrajsaxena/MyPortfolioReact/pulls"><img src="https://img.shields.io/github/issues-pr/akshatrajsaxena/MyPortfolioReact" alt="Pull Requests Badge"/></a>
-  <a href="https://github.com/akshatrajsaxena/MyPortfolioReact/issues"><img src="https://img.shields.io/github/issues/akshatrajsaxena/MyPortfolioReact" alt="Issues Badge"/></a>
-  <a href="https://github.com/akshatrajsaxena/MyPortfolioReact/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/akshatrajsaxena/MyPortfolioReact" ?color=2b9348"></a>
-  <a href="https://github.com/akshatrajsaxena/MyPortfolioReact/blob/master/LICENSE"><img src="https://img.shields.io/github/license/akshatrajsaxena/MyPortfolioReact ?color=2b9348" alt="License Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/developerfolio/stargazers"><img src="https://img.shields.io/github/stars/akshatrajsaxena/developerfolio" alt="Stars Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/developerfolio/network/members"><img src="https://img.shields.io/github/forks/akshatrajsaxena/developerfolio" alt="Forks Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/developerfolio/pulls"><img src="https://img.shields.io/github/issues-pr/akshatrajsaxena/developerfolio" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/developerfolio/issues"><img src="https://img.shields.io/github/issues/akshatrajsaxena/developerfolio" alt="Issues Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/developerfolio/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/akshatrajsaxena/developerfolio" ?color=2b9348"></a>
+  <a href="https://github.com/akshatrajsaxena/developerfolio/blob/master/LICENSE"><img src="https://img.shields.io/github/license/akshatrajsaxena/developerfolio?color=2b9348" alt="License Badge"/></a>
 </div>
 <br>
 
-
-
+**This is not the original Repository. [Click here](https://github.com/akshatrajsaxena/developerfolio) for original Repository**
 # Portfolio Website
-
-Welcome to my portfolio website! This project showcases my skills, experiences, achievements and projects. Below you will find detailed information about the technologies used, file structure, responsiveness, and how to access my website.
+ 
+ **Welcome to my Portfolio code! the build of the code is done mainly in Javascript using react Framework.** This project showcases my skills, experiences, achievements and projects. Below you will find detailed information about the technologies used, file structure, responsiveness, and how to access my website.
 
 ## Why I Use React Framework
 
@@ -22,7 +21,7 @@ I chose React for this project due to its component-based architecture, which al
 
 ## Is the Website Responsive?
 
-No, the website is not responsive. You may have different view depending on your device.
+No, the website is not responsive. You may have different views depending on your device. This website was made by me to understand react JS framework, and I was intensely aware of its functionality.
 
 ## Project Structure
 
@@ -39,12 +38,15 @@ The project is organized into several components and directories for better main
 Main Components
 
 ```
-    App.js: The root component that includes the main layout and routing.
-    Header.js: Displays the navigation bar and logo.
-    Footer.js: Contains the footer content.
-    Experience.js: Showcases my skills and professional history.
-    Projects.js: Lists my personal and professional projects.
+App.js: The root component that includes the main layout and routing.
+Header.js: Displays the navigation bar and logo.
+Footer.js: Contains the footer content.
+Experience.js: Showcases my skills and professional history.
+Projects.js: Lists my personal and professional projects.
 ```
+# Wanna Visit my Website
+[My PortFolio](https://akshatrajsaxena.netlify.app/)
+
 ## How to Access the Website
 
 Currently i haven't hosted my website anywhere as it is in development. But in future i will surely host it and will update the things on this repo.
@@ -87,11 +89,6 @@ If you find any issues or have suggestions for improvements, feel free to open a
 
 Above is the main my homepage which is currently in development and being updated on regular basis
 
-## LICENSE
-
-[MIT License](https://github.com/akshatrajsaxena/MyPortfolioReact/blob/main/LICENSE)
-
-
 
 ## Contact
 
@@ -105,5 +102,3 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-Welcome to my Portfolio code, the build of the code is done mainly in Javascript using react Framework.
